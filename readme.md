@@ -36,11 +36,9 @@ To stay in sync with the class repo.
 
 `$ git remote add upstream git@github.com:ga-students/ADI_SM_1.git`
 
-`$ git fetch upsteam master`
+`$ git fetch upstream master`
 
 `$ git merge upstream/master`
-
-![](git-team-workflow.JPG)
 
 #Team Flow without using FORKS
 
